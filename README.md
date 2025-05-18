@@ -9,7 +9,7 @@ This project analyzes driver behavior in response to location-based mobile coupo
 
 ## Project Structure
 
-- `data/` – Raw data files (e.g., `coupons.csv`)
+- `data/` – Raw data files (`coupons.csv`)
 - `prompt.ipynb` – Jupyter notebooks for data exploration and modeling
 - `README.md` – This file
 
